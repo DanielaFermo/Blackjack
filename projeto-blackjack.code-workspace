@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../aulas-daniela/Estrutura-de-Dados JS/modulo1/projeto-blackjack"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Blackjack"
+	}
+}
